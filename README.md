@@ -43,4 +43,4 @@ O projeto da calculadora foi feito para melhorar minha lógica de programação 
 
 2- Abra a pasta do projeto
 
-3- Execute o arquivo 'Calculadora.py' e teste o software.
+3- Execute o arquivo `Calculadora.py` e teste o software.
