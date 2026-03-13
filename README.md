@@ -5,7 +5,7 @@
 <img width="603" height="567" alt="image" src="https://github.com/user-attachments/assets/cb0aa6dc-2900-4fa6-ba19-e034a2d66926" />
 
            Sobre:
-O projeto da calculadora foi feito para melhorar minha lógica de programação, através do uso de loops, função, aninhamento e identação.
+O projeto da calculadora foi feito para melhorar minha lógica de programação através do uso de loops, funções, aninhamento e indentação.
 
            Conceitos aplicados:
            
@@ -13,7 +13,7 @@ O projeto da calculadora foi feito para melhorar minha lógica de programação,
 
 -Funções
 
--Lógica da identação e aninhamento de linhas
+-Lógica de indentação e aninhamento de linhas
 
 -Condicionantes
 
@@ -21,25 +21,25 @@ O projeto da calculadora foi feito para melhorar minha lógica de programação,
 
             Funcionalidades:
 
--Somar
+-Soma
 
--Subtrair
+-Subtração
 
--Miltiplicar
+-Multiplicação
 
--Dividir
+-Divisão
 
              Objetivo:
 
 -Criar um software com utilidade para o dia a dia
 
--Melhorar meu conhecimento lógico sobre loos while e for
+-Melhorar meu conhecimento lógico sobre loops while e for
 
 -Praticar tratamento de erros
 
              Como executar o projeto:
 
-1- Clone ou baixe esse reposítorio https://github.com/Epic10ka/Calculadora
+1- Clone ou baixe esse repositório https://github.com/Epic10ka/Calculadora
 
 2- Abra a pasta do projeto
 
